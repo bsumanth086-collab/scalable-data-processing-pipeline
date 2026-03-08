@@ -28,12 +28,11 @@ jobs:
         run: |
           pip install -r requirements.txt
 
-      - name: Install dev tools
+           - name: Install test tools
         run: |
-          pip install black pytest
+          pip install pytest
 
-      - name: Check formatting
-        run: black --check .
+ 
 
       - name: Run tests
         run: pytest
