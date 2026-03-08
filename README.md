@@ -1,3 +1,4 @@
+![CI](https://github.com/bsumanth086-collab/scalable-data-processing-pipeline/actions/workflows/ci.yml/badge.svg)
 # Scalable Data Processing Pipeline
 
 This repository demonstrates scalable processing of large structured datasets
